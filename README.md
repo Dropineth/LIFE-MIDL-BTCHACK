@@ -21,7 +21,7 @@ It enables decentralized, data-driven trust scoring for RWA in Bitcoin finance.
 
 ## 2. Repository & Demo
 
-* **GitHub Repository:** [https://github.com/Dropineth/LIFE-MIDL-BTCHACK](https://github.com/Dropineth/LIFE-MIDL-BTCHACK)
+* **GitHub Repository:** [https://github.com/Dropineth/LIFE-MIDL-BTCHACK/blob/main/demo.html](https://github.com/Dropineth/LIFE-MIDL-BTCHACK/blob/main/demo.html)
 * **Demo Link:** [https://lifeplusplus-demo.vercel.app](https://lifeplusplus-demo.vercel.app)
 
 ---
