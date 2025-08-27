@@ -21,7 +21,7 @@ It enables decentralized, data-driven trust scoring for RWA in Bitcoin finance.
 
 ## 2. Repository & Demo
 
-* **GitHub Repository:** [https://github.com/Dropineth/LIFE-MIDL-BTCHACK]((https://github.com/Dropineth/LIFE-MIDL-BTCHACK))
+* **GitHub Repository:** [https://github.com/Dropineth/LIFE-MIDL-BTCHACK](https://github.com/Dropineth/LIFE-MIDL-BTCHACK)
 * **Demo Link:** [https://lifeplusplus-demo.vercel.app](https://lifeplusplus-demo.vercel.app)
 
 ---
@@ -103,9 +103,9 @@ Upload RWA file → See Risk/Trust score → Deposit via Xverse → View Vault b
 
 ## 6. Additional Resources
 
-* **Documentation:** [https://docs.lifeplusplus.io](https://docs.lifeplusplus.io)
-* **Slides:** [https://slides.lifeplusplus.io](https://slides.lifeplusplus.io)
-* **Demo Video:** [https://youtu.be/lifeplusplus-btc-hack](https://youtu.be/lifeplusplus-btc-hack)
+* **Documentation:** 
+* **Slides:** 
+* **Demo Video:**
 
 ---
 
